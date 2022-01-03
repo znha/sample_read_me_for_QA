@@ -1,8 +1,7 @@
+<div style="align: center"><a href="#"><img width="100" height="100" alt="markaol-logo-tasarım" src="https://www.markaol.net/wp-content/uploads/2020/06/markaol-logo.gif"></a></div>
 
 # Application Description.
 Testing Feature 1 andn Feature 2 in X website [add the url to visit or download the application]
-
-<a href="#"><img width="500" height="500" alt="markaol-logo-tasarım" data-src="https://www.markaol.net/wp-content/uploads/2020/06/markaol-logo.gif" class="attachment-large size-large lazyloaded" src="https://www.markaol.net/wp-content/uploads/2020/06/markaol-logo.gif"></a>
 
 # Requirements
 (examples)
